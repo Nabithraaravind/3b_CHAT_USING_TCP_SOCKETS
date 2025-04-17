@@ -1,4 +1,6 @@
 # 3b.CREATION FOR CHAT USING TCP SOCKETS
+# Name: A.Nabithra
+# Register No.: 212224230172
 ## AIM
 To write a python program for creating Chat using TCP Sockets Links.
 ## ALGORITHM:
